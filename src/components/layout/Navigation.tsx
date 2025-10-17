@@ -48,6 +48,10 @@ export default function Navigation({ isTransparent = false, lightText = false }:
   {
     name: "Pricing",
     href: "#pricing"
+  },
+  {
+    name: "Contact",
+    href: "#contact"
   }
 ];
 

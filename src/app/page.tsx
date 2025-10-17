@@ -6,10 +6,10 @@ export default function HomePage() {
       <section id="hero">
         <Hero />
       </section>
-          <section id="contact">
-        <Contact />
+          <section id="about">
+        <About />
       </section>
     </>
   )
 }
-import Contact from '@/components/sections/home/Contact'
+import About from '@/components/sections/home/About'

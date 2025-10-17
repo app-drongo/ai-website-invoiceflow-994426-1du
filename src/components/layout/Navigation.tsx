@@ -52,6 +52,10 @@ export default function Navigation({ isTransparent = false, lightText = false }:
   {
     name: "Contact",
     href: "#contact"
+  },
+  {
+    name: "About",
+    href: "#about"
   }
 ];
 

@@ -6,6 +6,10 @@ export default function HomePage() {
       <section id="hero">
         <Hero />
       </section>
+          <section id="pricing">
+        <Pricing />
+      </section>
     </>
   )
 }
+import Pricing from '@/components/sections/home/Pricing'
